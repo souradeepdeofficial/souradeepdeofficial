@@ -3,7 +3,7 @@ Hi, I’m Souradeep — a Data Analyst in the making and a Canva Pro Designer wi
 Now, I combine my analytical mindset with my design background to tell stories through both data and visuals.
 
 🔹 Data Tools: Python, Excel, Power BI, SQL
-🔹 Design Tools: Canva Pro, Photoshop (basic), Figma (basic)
+🔹 Design Tools: Canva Pro
 🔹 Web Skills: PHP, MySQL, HTML, CSS, Bootstrap
 
 I’m currently working on building my portfolio with projects that showcase real-world insights and design creativity.
